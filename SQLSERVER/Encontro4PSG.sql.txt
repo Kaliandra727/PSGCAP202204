@@ -1,0 +1,9 @@
+--SELECT
+--TRIM(NOME_FUNCIONARIO) + ' ' + TRIM(SOBRENOME_FUNCIONARIO) AS 'Nome Completo'
+--FROM Funcionario;
+
+
+SELECT
+trim(NOME_FUNCIONARIO) + ' ' + Trim(SOBRENOME_FUNCIONARIO) AS 'Nome Completo'
+FROM Funcionario
+WHERE ID_Funcionario = 5;
