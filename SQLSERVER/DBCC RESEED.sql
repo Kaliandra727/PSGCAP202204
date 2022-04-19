@@ -1,0 +1,2 @@
+--DBCC CHECKIDENT ('Exercicio',RESEED,0)
+--GO
