@@ -1,0 +1,10 @@
+--CREATE TABLE Area_Conhecimento(
+--	ID_Area_Conhecimento INT IDENTITY (1, 1) NOT NULL,
+--	Descricao_Area_Conhecimento VARCHAR(MAX)NULL,
+--	Situacao BIT NULL DEFAULT 1,
+--	DataInclusao DATETIME NULL DEFAULT GETDATE(),
+--	DataAlteracao DATETIME NULL,
+--	DataExclusao DATETIME NULL
+--	CONSTRAINT PK_Area_Conhecimento PRIMARY KEY (ID_Area_Conhecimento)
+--)
+--GO
