@@ -1,0 +1,31 @@
+namespace AtacadoConsoleApp
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Escolha uma opção:");
+            Console.WriteLine("(C)ategoria");
+            Console.WriteLine("(S)ubcategoria");
+            Console.WriteLine("(P)roduto");
+            string  opcao = Console.ReadLine();
+            if (opcao.ToUpper() == "C")
+            {
+                Console.WriteLine("Você selecionou a oopção Categoria.");
+            }
+            else if (opcao.ToUpper() == "S")
+            {
+                Console.WriteLine("Você selecionou a oopção Subcategoria.");
+            }
+            else if (opcao.ToUpper() == "P")
+            {
+                Console.WriteLine("Você selecionou a oopção Produto.");
+            }
+            else
+            {
+                Console.WriteLine("Opção inválida");
+            }
+            Console.ReadLine();
+        }  
+    }
+}
