@@ -1,0 +1,28 @@
+ public static void Desafio_008()
+        {
+            Console.Write("Informe o seu salário:");
+            double sal = Convert.ToDouble(Console.ReadLine());
+            double aumento = (sal * 15 / 100);
+            Console.WriteLine("O seu aumento é de {0} Reais.", aumento);
+        }
+ ____________________________________________________________________________
+  public static void Desafio_009()
+        {
+            Console.Write("digite uma temperatura em graus celsius:");
+            double graus = Convert.ToDouble(Console.ReadLine());
+            double celcius = 1.8000;
+            double fahr = graus * celcius + 32.00;
+            Console.WriteLine("A temperatura informada em fahrenheit é {0}.", fahr);
+        }
+____________________________________________________________________________
+ public static void Desafio_010()
+        {
+            Console.Write("Quantos km foram percorridos?:");
+            double km = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Por quantos dias o carro foi alugado?:");
+            double dias = Convert.ToDouble(Console.ReadLine());
+            int valordia = 60;
+            double rodado = 0.15;
+            double result = (km * rodado) + (dias * valordia);
+            Console.WriteLine("O valor a pagar pelo aluguel do carro é {0}", result);
+        }
