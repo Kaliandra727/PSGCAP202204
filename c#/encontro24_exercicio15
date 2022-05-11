@@ -1,0 +1,23 @@
+public static void Desafio_015()
+        {
+            List<string> lista = criarListaDeNomes();
+            Console.WriteLine("ORIGINAL");
+            foreach (string item in lista)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("-----------------------------------------------------");
+            List<string> lista1 = criarListaDeNomes();
+            Random rand = new Random();
+            List<string> listaEmbaralhada = lista.OrderBy(x => rand.Next()).ToList();
+            Console.WriteLine("EMBARALHADA");
+            foreach (string item in listaEmbaralhada)
+            {
+                Console.WriteLine(item);
+            }
+            List<string> sorteado = criarListaDeNomes();
+            Random rand1 = new Random();
+            int indice = rand.Next(lista.Count());
+            rand.Next(lista.Count());
+            Console.WriteLine("o sorteado foi: {0}", lista[indice]);
+        }
