@@ -213,34 +213,29 @@
             double cont = inicial * taxa * temp;
             Console.WriteLine("O preço da fatura com juros é: {0} reais.", cont);
         }
-
-        static void Desafio_030()
+         static void Desafio_030()
         {
-            int numqtde = 5;
-            int pmenor = 0;
-            int pmaior = 0;
             int maior = 0;
             int menor = 0;
-            int[] numero = new int[numqtde];
-            for (int i = 0; i <= numqtde; i++)
+            for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Digite um número: ");
                 int num = Convert.ToInt32(Console.ReadLine());
-            }
-            for (int i = 0; i < 5; i++)
-            {
-                if (numero[i] < menor)
+
+                if (i == 0)
                 {
-                    maior = numero[i];
-                    pmaior = i;
+                    maior = num;
+                    menor = num;
                 }
-                if (numero[i] > maior)
+                else if (num > maior)
                 {
-                    menor = numero[i];
-                    pmenor = i;
+                    maior = num;
                 }
+                else if (num < menor)
+                {
+                    menor = num;
+                }
+                Console.WriteLine("maior número é: {0}.", maior);
+                Console.WriteLine("menor número é: {0}.", menor);
             }
-                Console.WriteLine("maior número é:" + maior);
-                Console.WriteLine("menor número é:"+ menor);
-            
-        }
+       
