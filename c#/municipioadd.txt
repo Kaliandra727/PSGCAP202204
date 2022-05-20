@@ -1,6 +1,6 @@
-municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(
-municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(
-municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(	municipio.Add	(
+municipio.Add	(	1	, "	Alta Floresta D'Oeste	", "	RO	", 	110001	, 	1100015	, 	24392	, 	76954000	);
+municipio.Add	(	2	, "	Alto Alegre dos Parecis	", "	RO	", 	110037	, 	1100379	, 	12816	, 	76952000	);
+municipio.Add	(	3	, "	Alto Paraíso	", "	RO	", 	110040	, 	1100403	, 	17135	, 	76862000	);
 municipio.Add	(	4	, "	Alvorada D'Oeste	", "	RO	", 	110034	, 	1100346	, 	16853	, 	76930000	);
 municipio.Add	(	5	, "	Ariquemes	", "	RO	", 	110002	, 	1100023	, 	90353	, 	76870001	);
 municipio.Add	(	6	, "	Buritis	", "	RO	", 	110045	, 	1100452	, 	32383	, 	76880000	);
