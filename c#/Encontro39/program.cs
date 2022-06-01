@@ -25,6 +25,7 @@
 
         public static void ExecutarExercicio10()
         {
+            Console.Clear();
             Console.WriteLine("- MUNICÍPIOS DE UM ESTADO PELA SIGLA -");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Digite a sigla de um estado: ");
@@ -47,6 +48,7 @@
 
         public static void ExecutarExercicio11()
         {
+            Console.Clear();
             Console.WriteLine("- ACHE ESTADOS PELO NOME DA REGIÃO -");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Digite uma região: ");
@@ -69,6 +71,7 @@
 
         public static void ExecutarExercicio12()
         {
+            Console.Clear();
             Console.WriteLine("- ATIVANDO FUNCIONÁRIOS -");
             Console.WriteLine("Digite um código: ");
             int codigo = Convert.ToInt32(Console.ReadLine());
@@ -77,6 +80,7 @@
 
         public static void ExecutarExercicio13()
         {
+            Console.Clear();
             Console.WriteLine("- DESATIVANDO FUNCIONÁRIOS -");
             Console.WriteLine("Digite um código: ");
             int codigo = Convert.ToInt32(Console.ReadLine());
