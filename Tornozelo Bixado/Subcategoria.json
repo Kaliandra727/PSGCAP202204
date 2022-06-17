@@ -1,0 +1,24 @@
+"IdSubcategoria" : 3,
+"DescricaoSubcategoria" : "Doces",
+"Situacao" : true,
+"IdCategoria" : 7
+
+"IdSubcategoria" : 8,
+"DescricaoSubcategoria" : "Carne empacotada",
+"Situacao" : true,
+"IdCategoria" : 10
+
+"IdSubcategoria" : 1,
+"DescricaoSubcategoria" : "Refrigerantes lata",
+"Situacao" : true,
+"IdCategoria" : 5
+
+"IdSubcategoria" : 10,
+"DescricaoSubcategoria" : "Sopas infantis",
+"Situacao" : true
+"IdCategoria" : 8
+
+"IdSubcategoria" : 9,
+"DescricaoSubcategoria" : "Geleias 0% açucar",
+"Situacao" : true
+"IdCategoria" : 4,

@@ -1,0 +1,19 @@
+"IdProfissao" : 7,
+"DescricaoProfissao" : "Professor",
+"Situacao" : true,
+
+"IdProfissao" : 10,
+"DescricaoProfissao" : "Médico",
+"Situacao" : true,
+
+"IdProfissao" : 3,
+"DescricaoProfissao" : "Engenheiro",
+"Situacao" : true,
+
+"IdProfissao" : 1,
+"DescricaoProfissao" : "Arquiteto",
+"Situacao" : true,
+
+"IdProfissao" : 9,
+"DescricaoProfissao" : "Designer Gráfico",
+"Situacao" : true,

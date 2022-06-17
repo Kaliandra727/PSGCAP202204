@@ -1,0 +1,33 @@
+<IdProduto>10</IdProduto>
+<DescricaoProduto>Coca-Cola 1L</DescricaoProduto>
+<Situacao>true</Situacao>
+<IdSubcategoria>7</IdSubcategoria>
+<IdCategoria>5</dCategoria>
+
+<IdProduto>7</IdProduto>
+<DescricaoProduto>Sopa 115g Nestlé baby</DescricaoProduto>
+<Situacao>true</Situacao>
+<IdSubcategoria>4</IdSubcategoria>
+<IdCategoria>16</dCategoria>
+
+
+<IdProduto>24</IdProduto>
+<DescricaoProduto>Filé friboi 1kg</DescricaoProduto>
+<Situacao>true</Situacao>
+<IdSubcategoria>8</IdSubcategoria>
+<IdCategoria>2</dCategoria>
+
+
+<IdProduto>19</IdProduto>
+<DescricaoProduto>Bara de cereal nutribem</DescricaoProduto>
+<Situacao>true</Situacao>
+<IdSubcategoria>24</IdSubcategoria>
+<IdCategoria>6</dCategoria>
+
+
+<IdProduto>34</IdProduto>
+<DescricaoProduto>Geleia de morango 0% açucar</DescricaoProduto>
+<Situacao>true</Situacao>
+<IdSubcategoria>9</IdSubcategoria>
+<IdCategoria>15</dCategoria>
+

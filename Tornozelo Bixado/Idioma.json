@@ -1,0 +1,24 @@
+"IdIdioma" : 1,
+"AbreviacaoIdioma" : "PT-BR",
+"DescricaoIdioma" : "Português",
+"Situacao" : true,
+
+"IdIdioma" : 2,
+"AbreviacaoIdioma" : "FR",
+"DescricaoIdioma" : "Francês",
+"Situacao" : true,
+
+"IdIdioma" : 3,
+"AbreviacaoIdioma" : "EN-US",
+"DescricaoIdioma" : "Inglês",
+"Situacao" : true,
+
+"IdIdioma" : 4,
+"AbreviacaoIdioma" : "ES",
+"DescricaoIdioma" : "Espanhol",
+"Situacao" : true,
+
+"IdIdioma" : 5,
+"AbreviacaoIdioma" : "RU",
+"DescricaoIdioma" : "Russo",
+"Situacao" : true,

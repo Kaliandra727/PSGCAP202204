@@ -1,0 +1,29 @@
+"IdProduto" : 10,
+"DescricaoProduto" : "Coca-Cola 1L",
+"Situacao" : true,
+"IdSubcategoria" : 7,
+"IdCategoria" : 5
+
+"IdProduto" : 15,
+"DescricaoProduto" : "Geléia Morando Nestlé 0% Açucar",
+"Situacao" : true,
+"IdSubcategoria" : 8,
+"IdCategoria" : 4
+
+"IdProduto" : 12,
+"DescricaoProduto" : "Sopa 115g nestlé baby",
+"Situacao" : true,
+"IdSubcategoria" : 9,
+"IdCategoria" : 3
+
+"IdProduto" : 4,
+"DescricaoProduto" : "Carne Friboi  filé",
+"Situacao" : true,
+"IdSubcategoria" : 11,
+"IdCategoria" : 1
+
+"IdProduto" : 2,
+"DescricaoProduto" : "Paçoca 24 uni manduvi",
+"Situacao" : true,
+"IdSubcategoria" : 4,
+"IdCategoria" : 19
